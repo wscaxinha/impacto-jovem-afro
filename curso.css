@@ -4,7 +4,7 @@
     box-sizing: border-box;
 }
 body, html {
-    font-family: 'Monoton', cursive;
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
     background-image: url("./papel_curso.jpg");
     background-position: center;
     background-repeat: no-repeat;
